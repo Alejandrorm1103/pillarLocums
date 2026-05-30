@@ -1,0 +1,33 @@
+{
+    "video": "assets/uploads/video/promo-current.mp4",
+    "video_updated_at": 1775742731,
+    "carousel": [
+        {
+            "id": "img-1.png",
+            "src": "/assets/img-1.png",
+            "alt": "Cobertura de turnos con continuidad asistencial",
+            "caption": "Cobertura de turnos con continuidad asistencial",
+            "scale": 0.6,
+            "x": "0px",
+            "y": "-150px"
+        },
+        {
+            "id": "img-2.png",
+            "src": "/assets/img-2.png",
+            "alt": "Conexión confiable entre clínicas y profesionales",
+            "caption": "Conexión confiable entre clínicas y profesionales",
+            "scale": 0.6,
+            "x": "0px",
+            "y": "-400px"
+        },
+        {
+            "id": "img-3.png",
+            "src": "/assets/img-3.png",
+            "alt": "Experiencia premium, clara y humana",
+            "caption": "Experiencia premium, clara y humana",
+            "scale": 0.6,
+            "x": "0px",
+            "y": "-550px"
+        }
+    ]
+}

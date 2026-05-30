@@ -1,0 +1,27 @@
+/* ================================
+   FIX CARRUSEL – NO IMÁGENES ESTIRADAS
+   ================================ */
+
+.slide{
+  min-width: 100%;
+  height: 360px;
+  position: relative;
+  overflow: hidden;
+  background: rgba(0,0,0,.2);
+}
+
+.slideMedia{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.slideMedia img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+ 
