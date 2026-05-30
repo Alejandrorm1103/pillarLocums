@@ -1011,18 +1011,4 @@ git push origin feature/nombre-de-la-funcionalidad
 
 ---
 
-## Licencia
 
-Licencia sugerida: **MIT**.
-
-Si decides usar MIT, agrega un archivo `LICENSE` en la raíz del repositorio con el texto oficial de la licencia MIT y el nombre del autor.
-
-Ejemplo:
-
-```txt
-MIT License
-
-Copyright (c) 2026 Nicolás / Alejandrorm1103
-```
-
-Si el proyecto es privado o comercial, puedes dejarlo sin licencia pública hasta definir los términos de uso.
