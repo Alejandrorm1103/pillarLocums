@@ -13,7 +13,7 @@ La aplicación incluye paneles diferenciados para **médicos**, **clínicas** y 
 
 ## Autor
 
-**Alejandrorm1103 / Nicolás**
+**Alejandrorm1103 / Nicolás Alejandro Rodriguez Molina**
 
 ---
 
